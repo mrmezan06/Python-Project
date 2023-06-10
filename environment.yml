@@ -10,4 +10,4 @@ dependencies:
   - textblob
   - ffmpeg-python
   - pygame==2.0.1
-  - pip==23.1.2
+  - pip==23.0.1
