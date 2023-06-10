@@ -10,5 +10,4 @@ dependencies:
   - textblob
   - ffmpeg-python
   - pygame==2.0.1
-  - pip:
-    - git+https://github.com/blaze/dask.git#egg=dask[complete]
+  - pip==23.1.2
