@@ -1,0 +1,14 @@
+name: environment
+
+dependencies:
+  - python=3.10
+  - numpy
+  - PyAudio==0.2.11
+  - SpeechRecognition==3.8.1
+  - pyttsx3
+  - speedtest-cli
+  - textblob
+  - ffmpeg-python
+  - pygame==2.0.1
+  - pip:
+    - git+https://github.com/blaze/dask.git#egg=dask[complete]
